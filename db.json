@@ -1,0 +1,423 @@
+{
+  "category": [
+    {
+      "name": "Phones",
+      "description": "ok ok",
+      "id": 1,
+      "icon": "FaMobileAlt"
+    },
+    {
+      "name": "Computers",
+      "description": "ok ok",
+      "icon": "FaLaptop",
+      "id": 2
+    },
+    {
+      "name": "SmartWatch",
+      "description": "ok ok",
+      "icon": "FaClock",
+      "id": 3
+    },
+    {
+      "name": "Camera",
+      "description": "Camera",
+      "icon": "FaCamera",
+      "id": 4
+    },
+    {
+      "name": "HeadPhones",
+      "description": "HeadPhones",
+      "icon": "FaHeadphones",
+      "id": 5
+    },
+    {
+      "name": "Gaming",
+      "description": "Gaming",
+      "icon": "FaGamepad",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617092/oc2mewiyzmzqolvrjrzc.png",
+      "name": "sp",
+      "category": "Computers",
+      "price": "33",
+      "coler": "#803838",
+      "size": "XS",
+      "rating": "5",
+      "quantity": "11",
+      "description": "tốt",
+      "status": "inStock",
+      "type": "simple",
+      "parent": 0,
+      "color": "#000000"
+    },
+    {
+      "id": 2,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617192/lpmnvjzutc8x0x3x6yto.png",
+      "name": "sp1",
+      "category": "SmartWatch",
+      "price": "799000",
+      "coler": "#dd0e0e",
+      "size": "S",
+      "rating": "5",
+      "quantity": "21",
+      "description": "tốtttt",
+      "status": "inStock",
+      "type": "simple",
+      "parent": 0,
+      "color": "#000000"
+    },
+    {
+      "id": 3,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617210/y0acosbfokqpcr8li8bq.png",
+      "name": "sp2",
+      "category": "SmartWatch",
+      "price": "222",
+      "color": "#ed3535",
+      "size": "M",
+      "rating": "1",
+      "quantity": "222",
+      "description": "dùng tốt",
+      "status": "inStock",
+      "type": "simple",
+      "parent": 0
+    },
+    {
+      "id": 4,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617240/fwvy2f6dxngx6untrdck.png",
+      "name": "sp3",
+      "category": "HeadPhones",
+      "price": "3333",
+      "color": "#4d0f0f",
+      "size": "L",
+      "rating": "3",
+      "quantity": "11",
+      "description": "ổn",
+      "status": "offStock",
+      "type": "simple",
+      "parent": 0
+    },
+    {
+      "id": 5,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617263/k4whuc4enejefhvjvk01.png",
+      "name": "sp4",
+      "category": "Gaming",
+      "subImages": [
+        "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744191065/fa0nozvyqb7zckfgvp3l.jpg"
+      ],
+      "price": "1000",
+      "color": "#892424",
+      "size": "M",
+      "rating": "2",
+      "quantity": "110",
+      "description": "ổn",
+      "status": "inStock",
+      "type": "simple",
+      "parent": 0
+    },
+    {
+      "id": 6,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617747/dodqfr6lqwnvdrkqpddi.png",
+      "name": "www",
+      "category": "Phones",
+      "price": "323",
+      "type": "simple",
+      "parent": 0,
+      "color": "#000000",
+      "size": "XS",
+      "rating": "4",
+      "quantity": "45",
+      "description": "cũng đc",
+      "status": "inStock"
+    },
+    {
+      "id": 7,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617884/i23ejirmkqoowj2bqlko.png",
+      "name": "linhtinh",
+      "category": "Computers",
+      "price": "21242134",
+      "type": "simple",
+      "parent": 0
+    },
+    {
+      "id": 8,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617908/gosbbramlnt9on8jlx5n.png",
+      "name": "Thế Anh",
+      "category": "SmartWatch",
+      "price": "799000",
+      "type": "simple",
+      "parent": 0
+    },
+    {
+      "id": 9,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744617945/jt3digc3abasjhllzw5u.png",
+      "name": "Thằng Duy Tín",
+      "category": "Camera",
+      "price": "799000",
+      "type": "simple",
+      "parent": 0,
+      "color": "#000000",
+      "size": "XS",
+      "rating": "2",
+      "quantity": "33",
+      "description": "33",
+      "status": "inStock"
+    },
+    {
+      "id": 10,
+      "image": "http://res.cloudinary.com/dy0gx6iz7/image/upload/v1744618149/ifu7bptpjujny7lnduob.png",
+      "name": "Duy Tín",
+      "category": "Camera",
+      "price": "799000",
+      "type": "simple",
+      "parent": 0
+    }
+  ],
+  "variants": [],
+  "orders": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "productId": 2,
+          "quantity": 1,
+          "price": "997"
+        },
+        {
+          "productId": 1,
+          "quantity": 1,
+          "price": "1000"
+        }
+      ],
+      "total": 1997,
+      "date": "2025-04-10T17:20:33.167Z"
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "productId": 4,
+          "quantity": 1,
+          "price": "3333"
+        },
+        {
+          "productId": 3,
+          "quantity": 1,
+          "price": "222"
+        }
+      ],
+      "total": 3555,
+      "date": "2025-04-10T17:29:41.012Z"
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "productId": 1,
+          "quantity": 1,
+          "price": "1000"
+        },
+        {
+          "productId": 5,
+          "quantity": 1,
+          "price": "1000"
+        }
+      ],
+      "total": 2000,
+      "date": "2025-04-11T08:16:20.495Z"
+    },
+    {
+      "id": 5,
+      "customer": {
+        "name": "Hoàng Thế Anh",
+        "phone": "0866423127",
+        "address": "473 Bạch Đằng",
+        "paymentMethod": "credit"
+      },
+      "items": [
+        {
+          "productId": 2,
+          "quantity": 1,
+          "price": "799000"
+        }
+      ],
+      "total": 799000,
+      "date": "2025-04-14T07:42:58.346Z"
+    },
+    {
+      "id": 6,
+      "customer": {
+        "name": "Hoàng Thế Anh",
+        "phone": "0866423127",
+        "address": "473 Bạch Đằng",
+        "paymentMethod": "cash"
+      },
+      "items": [
+        {
+          "productId": 1,
+          "quantity": 2,
+          "price": "33"
+        },
+        {
+          "productId": 2,
+          "quantity": 1,
+          "price": "799000"
+        },
+        {
+          "productId": 3,
+          "quantity": 1,
+          "price": "222"
+        },
+        {
+          "productId": 4,
+          "quantity": 1,
+          "price": "3333"
+        },
+        {
+          "productId": 5,
+          "quantity": 1,
+          "price": "1000"
+        }
+      ],
+      "total": 803621,
+      "date": "2025-04-14T07:43:33.921Z"
+    },
+    {
+      "id": 6,
+      "customer": {
+        "name": "Hoàng Thế Anh",
+        "phone": "0866423127",
+        "address": "473 Bạch Đằng",
+        "paymentMethod": "cash"
+      },
+      "items": [
+        {
+          "productId": 2,
+          "quantity": 1,
+          "price": "799000"
+        },
+        {
+          "productId": 1,
+          "quantity": 1,
+          "price": "33"
+        }
+      ],
+      "total": 799033,
+      "date": "2025-04-14T08:21:40.511Z"
+    },
+    {
+      "id": 7,
+      "customer": {
+        "name": "Hoàng Thế Anh",
+        "phone": "0866423127",
+        "address": "473 Bạch Đằng",
+        "paymentMethod": "paypal"
+      },
+      "items": [
+        {
+          "productId": 10,
+          "quantity": 1,
+          "price": "799000"
+        },
+        {
+          "productId": 9,
+          "quantity": 1,
+          "price": "799000"
+        },
+        {
+          "productId": 8,
+          "quantity": 1,
+          "price": "799000"
+        }
+      ],
+      "total": 2397000,
+      "date": "2025-04-14T08:22:11.102Z"
+    },
+    {
+      "id": 8,
+      "customer": {
+        "name": "Hoàng Thế Anh",
+        "phone": "0866423127",
+        "address": "473 Bạch Đằng",
+        "paymentMethod": "cash"
+      },
+      "items": [
+        {
+          "productId": 1,
+          "quantity": 2,
+          "price": "33"
+        }
+      ],
+      "total": 66,
+      "date": "2025-04-14T09:44:49.479Z"
+    },
+    {
+      "id": 9,
+      "customer": {
+        "name": "Hoàng Thế Anh",
+        "phone": "0866423127",
+        "address": "473 Bạch Đằng",
+        "paymentMethod": "cash"
+      },
+      "items": [
+        {
+          "productId": 2,
+          "quantity": 2,
+          "price": "799000"
+        },
+        {
+          "productId": 1,
+          "quantity": 1,
+          "price": "33"
+        }
+      ],
+      "total": 1598033,
+      "date": "2025-04-14T09:59:50.269Z"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "Items": [
+        {
+          "productId": 1,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "Items": [
+        {
+          "productId": 1,
+          "quantity": "241111"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "anh@gmail.com",
+      "password": "$2a$10$0oofFlPbVyJDG1wfB/enmezO1Im7ld1axDnK97L5t2kJrEuTGjaXW",
+      "role": "admin",
+      "id": 5
+    },
+    {
+      "email": "anhhtph50205@gmail.com",
+      "password": "$2a$10$bjC6qOsBoEeygAIxsf53qeNAjHIvr2dH25SM.ZpvCS2Z97rYLpMwe",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "anhht@gmail.com",
+      "password": "$2a$10$YXlbjXYR65qURptZFWhkDej82JG8MZQhBAmsRuaNEE6sdYfc4rVA.",
+      "role": "admin",
+      "id": 7
+    }
+  ]
+}
